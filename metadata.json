@@ -1,0 +1,6 @@
+{
+  "name": "Manikanta Travels",
+  "description": "Premium passenger travel and vehicle rental services located near Ramalingeshwara Temple, Medchal, Medchal-Malkajgiri, Hyderabad. Swift Dzire, Innova, Innova Crysta, Tempo Traveller, and SML Bus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
